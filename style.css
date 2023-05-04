@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+    font-family: monospace;
+}
+
+h1{
+    background-color: white;
+    color: black;
+    font-family: monospace;
+}
+
+.footer{
+    position: fixed;
+    background-color: black;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-family: monospace;
+}
+
+canvas{
+    border: 2px solid black;
+    border-radius: 8px;
+    margin-top: 12%;
+}
+
+h4{
+    background-color: cadetblue;
+    color: white;
+}
+    
